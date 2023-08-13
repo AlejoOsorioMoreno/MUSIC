@@ -1,0 +1,164 @@
+*{
+        margin: 0;
+    }
+    header{
+        background-image:url(/images/angel-jimenez.jpg);
+        background-position: center;
+        background-size: cover;
+        color: rgb(241, 238, 238);
+        text-align: center;
+        padding-left: 30px;
+        height: 950px;
+    }
+    footer{
+        background-color: #FD4C5C;
+        height: 400px;
+    }
+    #cabeza{
+        font-size: 200px;
+        padding-top: 300px;
+        padding-left: 38px;
+    }
+    #titulo{
+        background-image: linear-gradient(45deg, #FD4C5C 50%, #E92363 50%);
+        display: inline-block;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 60px;
+        padding-top: 200px;
+        padding-left: 100px
+        
+    }
+    #titulo1{
+        background-image: linear-gradient(45deg, #FD4C5C 50%, #E92363 50%);
+        display: inline-block;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 60px;
+        padding-top: 200px;
+        padding-right: 100px;
+    }
+    #img1{
+        float: right;
+    }
+    #section1{
+        margin-top: 200px;
+    }
+    #img2{
+        float: left;
+    }
+    #section2{
+        margin-top: 300px;
+        padding-left: 300px;
+    }
+    #section3{
+        background-image:url(/images/john-raptis.png);
+        background-size: cover;
+        margin-top: 300px;
+        color: #ffffff;
+        text-align: left;
+        padding-left: 780px;
+        padding-top: 300px;
+        height: 600px;
+    }
+    #boton1{
+        margin: 30px 0px 0px 100px;
+        border: 0px solid #e62c6af6;
+        padding: 15px 50px 15px 50px;
+        background-color: #e62c6af6;
+        color: #ffffff;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-family: 'Helvetica', sans-serif;
+        border-radius: 50px;
+    }
+    #boton2{
+        margin: 30px 0px 0px 200px;
+        border: 0px solid #e62c6af6;
+        padding: 15px 50px 15px 50px;
+        background-color: #e62c6af6;
+        color: #ffffff;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-family: 'Helvetica', sans-serif;
+        border-radius: 50px;
+    }
+    #boton3{
+        margin: 30px 0px 0px 100px;
+        border: 0px solid #e62c6af6;
+        padding: 15px 50px 15px 50px;
+        background-color: #e62c6af6;
+        color: #ffffff;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-family: 'Helvetica', sans-serif;
+        border-radius: 50px;
+    }
+    .letra{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 60px;
+        padding-top: 20px;
+        padding-left: 100px;
+    }
+    .letra2{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 60px;
+        padding-top: 20px;
+        padding-left: 100px;
+    }
+    .letra3{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 60px;
+        padding-top: 20px;
+        padding-left: 100px;
+    }
+    .parrafo{
+        font-family: 'Times New Roman', Times, serif;
+        color: rgba(48, 44, 44, 0.986);
+        padding-top: 15px;
+        padding-left: 100px;
+    }
+    .parrafo1{
+        font-family: 'Times New Roman', Times, serif;
+        color: #ffffff;
+        padding-top: 15px;
+        padding-left: 100px;
+    }
+    .parrafo2{
+        font-family: 'Times New Roman', Times, serif;
+        color: rgba(48, 44, 44, 0.986);
+        padding-top: 15px;
+        padding-left: 100px;
+    }
+    .tabla{
+      padding-top: 100px;
+      padding-left: 200px;
+    }
+    .tabla table td{
+      width: 252px;
+      color: white;
+    }
+    .columna td{
+      padding-top: 50px;
+    }
+    .nombre{
+      float: left;
+      color: white;
+      margin-left: 430px;
+    }
+    .correo{
+      float: right;
+      color: white;
+      margin-right: 500px;
+    }
+    .linea{
+      color: white;
+      margin-top: 44px;
+      margin-left: 434px;
+      margin-right: 485px;
+    }
+    .clear{
+      clear: both;
+    }
